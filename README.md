@@ -9,4 +9,5 @@ DISCLAIMER: I'm not responsible for any bad usage of this tool. It is for educat
 
 ## Command line arguments
 `Bypass-UAC.exe <file>
+
 <file> - FULL PATH of the exe file, for example C:\Windows\System32\cmd.exe`
