@@ -11,3 +11,7 @@ DISCLAIMER: I'm not responsible for any bad usage of this tool. It is for educat
 `Bypass-UAC.exe <file>`
 
 `<file> - FULL PATH of the exe file, for example C:\Windows\System32\cmd.exe`
+
+Example of usage:
+
+`Bypass-UAC C:\Windows\System32\cmd.exe`
