@@ -1,4 +1,5 @@
-﻿using System.Reflection;
+﻿using System.Resources;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
@@ -17,7 +18,7 @@ using System.Runtime.InteropServices;
 // Se si imposta ComVisible su false, i tipi in questo assembly non saranno visibili
 // ai componenti COM. Se è necessario accedere a un tipo in questo assembly da
 // COM, impostare su true l'attributo ComVisible per tale tipo.
-[assembly: ComVisible(false)]
+[assembly: ComVisible(true)]
 
 // Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
 [assembly: Guid("9e093a9d-5a9c-4141-acb3-4db650d9b65f")]
@@ -32,5 +33,6 @@ using System.Runtime.InteropServices;
 // È possibile specificare tutti i valori oppure impostare valori predefiniti per i numeri relativi alla revisione e alla build
 // usando l'asterisco '*' come illustrato di seguito:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
+[assembly: NeutralResourcesLanguage("en")]

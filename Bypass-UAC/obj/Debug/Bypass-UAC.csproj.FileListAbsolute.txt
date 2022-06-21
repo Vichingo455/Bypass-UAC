@@ -1,0 +1,10 @@
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\bin\Debug\Bypass-UAC.exe.config
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\bin\Debug\Bypass-UAC.exe
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\bin\Debug\Bypass-UAC.pdb
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass-UAC.csproj.AssemblyReference.cache
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass-UAC.csproj.SuggestedBindingRedirects.cache
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass_UAC.Properties.Resources.resources
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass-UAC.csproj.GenerateResource.cache
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass-UAC.csproj.CoreCompileInputs.cache
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass-UAC.exe
+K:\Some Source Code\Bypass-UAC\Bypass-UAC\obj\Debug\Bypass-UAC.pdb
